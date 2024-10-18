@@ -2,7 +2,7 @@
 
 地域ごとのニュースを収集してWebGISマップ上に表示するWebページを生成するスクリプトです。
 leafletとOpenStreetMapを使用しています。
-ニュースの収集にはGoogleマップを使用しています。
+ニュースの収集にはGoogle Custom Search APIを使用しています。
 あかるいニュースの振り分けにはChatGPT APIを利用しています。
 
 # 使用方法
