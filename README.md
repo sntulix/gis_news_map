@@ -28,7 +28,8 @@ This uses Leaflet OpenStreetMap, Google Custom Search API, ChatGPT API.
 
 ## スクリーンショット / Screenshot
 
-<img width="1240" alt="スクリーンショット" src="https://github.com/user-attachments/assets/afc91c26-b333-45b8-bd34-2d038c9882c5">
+<img width="1240" alt="スクリーンショット1" src="https://github.com/user-attachments/assets/afc91c26-b333-45b8-bd34-2d038c9882c5">
+<img width="1385" alt="スクリーンショット2" src="https://github.com/user-attachments/assets/07a17606-23ac-4f5b-b002-d4047af5d496">
 
 ## 利用ライブラリ / Library
 
