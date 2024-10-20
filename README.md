@@ -12,6 +12,10 @@ leafletとOpenStreetMapを使用しています。
 1. scriptディレクトリの1〜7までのスクリプトを順に実行してdata.jsonを生成
 2. vite buildして生成したhtmlと一緒にWebサーバーにアップロードします。
 
+## 公開サイト / Web Site
+
+https://www.futuregadget.com/file/map-japan-prefecture-news/
+
 ## About
 
 This is a script generating news data each region and viewer html.
